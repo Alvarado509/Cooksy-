@@ -1,0 +1,8 @@
+{
+  "name": "Cooksy",
+  "description": "Smart Personal Cookbook - Save recipes from anywhere, cook step-by-step, and organize your favorite dishes.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
